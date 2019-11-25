@@ -28,7 +28,7 @@ namespace APIGateway
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddCors();
-            services.AddOcelot();
+            services.AddOcelot(Configuration);
             services.AddControllers();    
         }
 
