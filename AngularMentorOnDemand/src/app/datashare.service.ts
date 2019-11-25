@@ -6,7 +6,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class DatashareService {
 
-  public apiServer = "https://localhost:9060"
+  public apiServer = "http://localhost:9060"
 
   userEmail = localStorage.getItem('email')
   userRole = localStorage.getItem('role')
