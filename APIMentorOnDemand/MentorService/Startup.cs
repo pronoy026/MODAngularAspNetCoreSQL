@@ -83,7 +83,6 @@ namespace MentorService
             //    app.UseDeveloperExceptionPage();
             //}
             app.UseDeveloperExceptionPage();
-
             app.UseHttpsRedirection();
 
             app.UseCors(policy => policy.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin());

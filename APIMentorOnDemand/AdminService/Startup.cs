@@ -82,6 +82,7 @@ namespace AdminService
             //{
             //    app.UseDeveloperExceptionPage();
             //}
+
             app.UseDeveloperExceptionPage();
 
             app.UseHttpsRedirection();
