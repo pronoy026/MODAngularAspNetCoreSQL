@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\testAPI2\\APIMentorOnDemand\\StudentService\\StudentService.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentService\\StudentService.csproj": {}
   },
   "projects": {
-    "F:\\testAPI2\\APIMentorOnDemand\\StudentLibrary\\StudentLibrary.csproj": {
+    "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentLibrary\\StudentLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\testAPI2\\APIMentorOnDemand\\StudentLibrary\\StudentLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentLibrary\\StudentLibrary.csproj",
         "projectName": "StudentLibrary",
-        "projectPath": "F:\\testAPI2\\APIMentorOnDemand\\StudentLibrary\\StudentLibrary.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\testAPI2\\APIMentorOnDemand\\StudentLibrary\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentLibrary\\StudentLibrary.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,17 +66,17 @@
         }
       }
     },
-    "F:\\testAPI2\\APIMentorOnDemand\\StudentService\\StudentService.csproj": {
+    "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentService\\StudentService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\testAPI2\\APIMentorOnDemand\\StudentService\\StudentService.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentService\\StudentService.csproj",
         "projectName": "StudentService",
-        "projectPath": "F:\\testAPI2\\APIMentorOnDemand\\StudentService\\StudentService.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\testAPI2\\APIMentorOnDemand\\StudentService\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentService\\StudentService.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "F:\\testAPI2\\APIMentorOnDemand\\StudentLibrary\\StudentLibrary.csproj": {
-                "projectPath": "F:\\testAPI2\\APIMentorOnDemand\\StudentLibrary\\StudentLibrary.csproj"
+              "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentLibrary\\StudentLibrary.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\StudentLibrary\\StudentLibrary.csproj"
               }
             }
           }

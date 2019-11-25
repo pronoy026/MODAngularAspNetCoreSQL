@@ -30,3 +30,11 @@ F:\testAPI2\APIMentorOnDemand\AuthenticationLibrary\obj\Debug\netcoreapp3.0\Auth
 F:\testAPI2\APIMentorOnDemand\AuthenticationLibrary\obj\Debug\netcoreapp3.0\AuthenticationLibrary.AssemblyInfo.cs
 F:\testAPI2\APIMentorOnDemand\AuthenticationLibrary\obj\Debug\netcoreapp3.0\AuthenticationLibrary.dll
 F:\testAPI2\APIMentorOnDemand\AuthenticationLibrary\obj\Debug\netcoreapp3.0\AuthenticationLibrary.pdb
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\AuthenticationLibrary\bin\Debug\netcoreapp3.0\AuthenticationLibrary.deps.json
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\AuthenticationLibrary\bin\Debug\netcoreapp3.0\AuthenticationLibrary.dll
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\AuthenticationLibrary\bin\Debug\netcoreapp3.0\AuthenticationLibrary.pdb
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\AuthenticationLibrary\obj\Debug\netcoreapp3.0\AuthenticationLibrary.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\AuthenticationLibrary\obj\Debug\netcoreapp3.0\AuthenticationLibrary.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\AuthenticationLibrary\obj\Debug\netcoreapp3.0\AuthenticationLibrary.AssemblyInfo.cs
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\AuthenticationLibrary\obj\Debug\netcoreapp3.0\AuthenticationLibrary.dll
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\AuthenticationLibrary\obj\Debug\netcoreapp3.0\AuthenticationLibrary.pdb

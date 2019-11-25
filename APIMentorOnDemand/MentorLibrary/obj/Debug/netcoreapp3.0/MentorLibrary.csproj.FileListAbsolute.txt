@@ -30,3 +30,11 @@ F:\testAPI2\APIMentorOnDemand\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrar
 F:\testAPI2\APIMentorOnDemand\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.AssemblyInfo.cs
 F:\testAPI2\APIMentorOnDemand\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.dll
 F:\testAPI2\APIMentorOnDemand\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.pdb
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\MentorLibrary\bin\Debug\netcoreapp3.0\MentorLibrary.deps.json
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\MentorLibrary\bin\Debug\netcoreapp3.0\MentorLibrary.dll
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\MentorLibrary\bin\Debug\netcoreapp3.0\MentorLibrary.pdb
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.AssemblyInfo.cs
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.dll
+C:\Users\Hp\Desktop\MODAngularAspNetCoreSQL\APIMentorOnDemand\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.pdb

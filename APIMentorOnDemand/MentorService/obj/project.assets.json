@@ -8621,19 +8621,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\Hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\testAPI2\\APIMentorOnDemand\\MentorService\\MentorService.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\MentorService\\MentorService.csproj",
       "projectName": "MentorService",
-      "projectPath": "F:\\testAPI2\\APIMentorOnDemand\\MentorService\\MentorService.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\testAPI2\\APIMentorOnDemand\\MentorService\\obj\\",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\MentorService\\MentorService.csproj",
+      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\MentorService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8646,8 +8646,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "F:\\testAPI2\\APIMentorOnDemand\\MentorLibrary\\MentorLibrary.csproj": {
-              "projectPath": "F:\\testAPI2\\APIMentorOnDemand\\MentorLibrary\\MentorLibrary.csproj"
+            "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\MentorLibrary\\MentorLibrary.csproj": {
+              "projectPath": "C:\\Users\\Hp\\Desktop\\MODAngularAspNetCoreSQL\\APIMentorOnDemand\\MentorLibrary\\MentorLibrary.csproj"
             }
           }
         }
