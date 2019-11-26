@@ -198,7 +198,8 @@ namespace StudentLibrary.Repositories
                                     StudentEmail = c.StudentEmail,
                                     MentorName = MentorName,
                                     StudentName = StudentName,
-                                    CompletionStatus = 100
+                                    CompletionStatus = 100,
+                                    Type = "debit"
                                 }
                     ).FirstOrDefault();
                 context.Payments.Add(payment);
