@@ -8,7 +8,7 @@ import { DatashareService } from '../datashare.service';
 })
 export class AdminpaymentComponent implements OnInit {
 
-  payments
+  payments: any
   tabletoggler: boolean
 
   constructor(private _datashare: DatashareService) { }
